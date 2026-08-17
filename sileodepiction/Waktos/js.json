@@ -1,0 +1,73 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://lans233.github.io/images/lans233.jpeg",
+    "tintColor": "#1DBBFF",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "安卓风格的锁屏，效果如图，此插件系有根插件，修复支持rootless，添加中文支持（汉化：lans233🇨🇳）注意：锁屏有通知时是另一种风格，无通知时才会显示如图的风格",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 346.4533333333333}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://lans233.github.io/sileodepiction/Waktos/Screenshot_01.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://lans233.github.io/sileodepiction/Waktos/Screenshot_02.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://lans233.github.io/sileodepiction/Waktos/Screenshot_03.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "详情",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "15.0 - 17.0",
+                    "title": "支持系统"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2025年1月1日",
+                    "title": "更新日期"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                }
+            ]
+        }
+    ]
+}

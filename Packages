@@ -1,14 +1,3 @@
-Package: repo.lans233.description
-Version: 9.9.9
-Architecture: iphoneos-arm64
-Maintainer: lans233
-Installed-Size: 9999999
-Section: Tweaks
-Filename: 
-Description: QQ玩机交流群157289939，欢迎各大新手小白，大佬老手加入
-Author: lans233
-Name: 1个公告-务必看一看
-
 Package: com.0xkuj.3dappversionspoofer.lans233
 Version: 2.1.0
 Architecture: iphoneos-arm64
@@ -24,6 +13,38 @@ Section: Tweaks
 Description: 可以任意修改app的版本号，应该可以解决一些检测更新的问题，本源是直接从作者源搬运的最新版本，别的源都是旧版的，源主已半汉化！（能力有限，只能汉化到这，抱歉）
 Author: 0xkuj
 Name: 3DAppVersionSpoofer修改app版本号
+
+Package: com.Ethan.macpass.lans233
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: Ethan Whited
+Installed-Size: 876
+Depends: mobilesubstrate, com.spark.libsparkcolourpicker, ws.hbang.common
+Filename: ./debs/macpass Macos风格密码解锁.deb
+Size: 196876
+MD5sum: 7a8cebbf52938a4c8aa3f9de446a4611
+SHA1: 6a095c13831161737842ecfa28866bf125ea8297
+SHA256: 7972dc2b48ff557edaa25d7fc35cfc8926e23771a3a3ba42812f0bcf9ff11555
+Section: Tweaks
+Description: macos风格的密码解锁，非常好看，强烈推荐！（汉化：lans233🇨🇳）注意：可能不支持ios16
+Author: Ethan Whited
+Icon: https://nahtedetihw.github.io/assets/com.nahtedetihw.macpass/icon.png
+Name: MacPass Macos风格密码解锁
+
+Package: com.JunesiPhone.charginganimation.lans233
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: JunesiPhone
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis, openssh-client, openssh-sftp-server, openssh-server, fakeroot
+Filename: ./debs/charginganimation充电动画汉化版.deb
+Size: 3247252
+MD5sum: d0ecf4a39033686a2d0bb9b371907f44
+SHA1: b60cf048c34ff2c2dedf648c23d192d4968ff0e8
+SHA256: e4eb01aa8af11ed578306abbb0f44621b0fff5df56583031dfb1b04b95b4cc06
+Section: Tweaks
+Description: 自定义ios设备的充电动画，非常酷炫！（汉化：lans233🇨🇳）
+Author: JunesiPhone
+Name: ChargingAnimation充电动画
 
 Package: com.Wes.ExplosiveIcons.lans233
 Version: 1.1.1
@@ -41,6 +62,24 @@ Depiction: https://lans233.github.io/sileodepiction/ExplosiveIcons/js.json
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/explosiveicons.png
 Name: ExplosiveIcons炫酷图标卸载动画
 Sileodepiction: https://lans233.github.io/sileodepiction/ExplosiveIcons/js.json
+
+Package: com.ali.waktos.lans233
+Version: 1.0.1-rootless
+Architecture: iphoneos-arm64
+Maintainer: alimaulana
+Installed-Size: 696
+Depends: com.spark.libsparkcolourpicker, oldabi, preferenceloader, ws.hbang.common (>= 1.14), com.peterdev.libpddokdo.lans233
+Filename: ./debs/Waktos安卓锁屏.deb
+Size: 147968
+MD5sum: 360515b77628012c65de437147c06c1a
+SHA1: b32a86c99af0ac5abfb5dd05683edc935bb54fdf
+SHA256: bc6bbd5a0e95b71d32d4a85b91da04b3a0587c8bc3d810b4f4e77797e3a8c4d4
+Section: Tweaks
+Description: 安卓风格的锁屏，效果如图，此插件系有根插件，修复支持rootless，添加中文支持（汉化：lans233🇨🇳）注意：本插件有通知时是一种风格，无通知时才是如图所示的风格
+Author: alimaulana
+Depiction: https://lans233.github.io/sileodepiction/Waktos/js.json
+Name: Waktos安卓锁屏
+Sileodepiction: https://lans233.github.io/sileodepiction/Waktos/js.json
 
 Package: com.atar13.vaon.lans233
 Version: 1.2.1
@@ -164,6 +203,71 @@ Description: 由Huayuarc制作，解锁video saver内购破解，可下载无限
 Author: Huayuarc
 Name: Video Saver网页视频保存器破解
 
+Package: com.jakeashacks.bounceit.lans233
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: BigBoss
+Installed-Size: 143
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/bounceit弹性动画.deb
+Size: 5596
+MD5sum: 85ebc209206f2cb2d80ac3a6737f1183
+SHA1: 6fa431378c5d77e613ccd343cd3923a2b7de4e52
+SHA256: fa8b539107d068c3efdd521676d46d2fa9a33f0dc3dbd5f0cddf1ec97a05a565
+Section: Tweaks
+Description: 为系统添加弹性动画，太Q弹了吧！喜欢的小伙伴们可以试试！插件无设置项，安装即生效！
+Author: Jake James
+Name: Bounce It!弹性动画
+
+Package: com.julioverne.lockdroid.lans233
+Version: 0.0~beta8
+Architecture: iphoneos-arm64
+Maintainer: julioverne
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis, com.lans233.zh-hansforlockdroid
+Filename: ./debs/Lockdroid安卓化绘制解锁.deb
+Size: 56660
+MD5sum: cab6110ba01bd714b7466be0463af148
+SHA1: c86f370c5309d8a1c01efdf5a6ab1391a4b68f07
+SHA256: 246e93595f07448ebaf54a73c3e0c228c1196f8fbc8e549eb3c8a36b514c694b
+Section: Tweaks
+Description: 仿安卓的密码绘制解锁设备，非常酷炫！源内有汉化包（汉化：lans233🇨🇳）
+Author: julioverne
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/lockdroid.png
+Name: LockDroid安卓绘制解锁
+
+Package: com.lans233.zh-hansforlockdroid
+Version: 0.0.1-3+debug
+Architecture: iphoneos-arm64
+Maintainer: lans233
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/Lockdroid简体中文包.deb
+Size: 7780
+MD5sum: 46bf26b0b27374dc81c29e20a817a60d
+SHA1: 1144c91e5457c4ac4bbdfe64319d5a948138f0fe
+SHA256: 7f5f6e1969f645726ac38400aa5c7b95dab9ecb3d4083237b743e13098fdee08
+Section: Tweaks
+Description: 为LockDroid提供简体中文（汉化：lans233🇨🇳），本包是注入设置的插件，第一次尝试用theos自己写插件替换文本
+Author: lans233
+Name: LockDroid简体中文包
+
+Package: com.misakaproject.macaron.lans233
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Misaka Project
+Installed-Size: 792
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, ws.hbang.common
+Filename: ./debs/macaron Dock背景图片汉化版.deb
+Size: 406900
+MD5sum: 88b3842f51179a8f35c0251d1bb4859a
+SHA1: d0677ccae7bd57011074ca1ba34a0252834cdefc
+SHA256: fa94e4be7e3b73383537a6722b8e580b6e7fb69f2ad70ac7b39a898a55dfcd49
+Section: Tweaks
+Description: 在ios15的dock背景中，显示一张图片，还不错的一款插件，喜欢的小伙伴们冲吧！（汉化：lans233🇨🇳）
+Author: Misaka Project
+Icon: https://cdn.discordapp.com/attachments/1114977950245322865/1127915035776274522/icon3x.png
+Name: Macaron
+
 Package: com.nahtedetihw.nowidgetlabels.lans233
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -197,6 +301,21 @@ Section: Tweaks
 Description: 听音乐时，把音乐app的图标变为歌曲的图标（仅支持部分app，如apple music等）
 Author: Ethan Whited
 Name: NowPlayingIconXVI音乐app歌曲图标
+
+Package: com.peterdev.libpddokdo.lans233
+Version: 1.3.4-rootless
+Architecture: iphoneos-arm64
+Maintainer: Soongyu Kwon
+Installed-Size: 216
+Filename: ./debs/libpddokdo依赖.deb
+Size: 8120
+MD5sum: cca240d7c8ff7dc57f1ee173c0ff1a3d
+SHA1: 275cf655d8bf9e218e4f261d5078d1630942b95b
+SHA256: 9c8ef9fce841d6da0aed6d9a73e60ef6a439e89914fa8a239b6e41ba98a5cc31
+Section: Development
+Description: 使依赖此依赖的插件能够从天气app中获取正确的天气数据，支持rootless
+Author: Soongyu Kwon
+Name: libPDDokdo
 
 Package: com.pixelomer.oneko.lans233
 Version: 1.0.0
@@ -285,6 +404,23 @@ Author: sugiuta
 Icon: https://sugiuta.github.io/repo/descriptions/com.sugiuta.rena/Rena.png
 Name: Rena锁屏应用美化
 
+Package: com.ubik.sonus15.lans233
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: ubik
+Installed-Size: 720
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis, openssh-client, openssh-sftp-server, openssh-server, fakeroot
+Filename: ./debs/sonus15漂亮音量UHD汉化版.deb
+Size: 119872
+MD5sum: 53fd3a57bd0874d46cf0433adcd535bc
+SHA1: 77db1bef021294b90f3dfb228c224f6bcec35ce0
+SHA256: 58c6481c4e4ad672223eceb19219172b2a66ef9cb570e822071fb43483c83b03
+Section: Tweaks
+Description: 超高自定义，非常美观的音量UHD，支持ios15以上的系统，非常好看，特别推荐！（汉化：lans233）
+Author: ubik
+Icon: https://repo.cypwn.xyz/packages/Sonus15-Rootless/icon.png
+Name: Sonus15漂亮音量UHD
+
 Package: com.yourepo.b4db1r3r3p0.oleddarkmode.lans233
 Version: 0.5.2-11
 Architecture: iphoneos-arm64
@@ -329,6 +465,22 @@ Section: Tweaks
 Description: 自定义设置选项的圆角
 Author: CydiaGeek <lucaluca86@aol.com>
 Name: roundPrefs自定义设置圆角
+
+Package: de.finngaida.daynightswitch.lans233
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: Finn Gaida
+Installed-Size: 608
+Depends: mobilesubstrate
+Filename: ./debs/daynightswitch炫酷日月开关汉化版.deb
+Size: 60536
+MD5sum: 83d9cd3f715f2cb0e0ce277e80047381
+SHA1: da39e05aa442f58316ffc81fef5973d2ff2ee5ed
+SHA256: 25da5a455959634994560d2f2e8e6e897fe97feadd27e7190de28f39094f3461
+Section: Tweaks
+Description: 炫酷的日月开关，特别丝滑炫酷，强烈推荐！（汉化：lans233🇨🇳）
+Author: Finn Gaida
+Name: DayNightSwitch炫酷日月开关
 
 Package: jp.uzra.gestune.lans233
 Version: 1.0.0
@@ -487,6 +639,22 @@ Section: Tweaks
 Description: 一个牛逼的息屏动画特效！（汉化：lans233）
 Author: p0358
 Name: DisintegrateLock 息屏特效
+
+Package: net.sourceloc.pinanim.lans233
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: sourcelocation
+Installed-Size: 604
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), com.ginsu.comet
+Filename: ./debs/pinanim密码弹跳动画.deb
+Size: 77464
+MD5sum: 38d5e28b5e7456daf2bec55fca62b8c5
+SHA1: fa03f035cccb1a950f91192bf5df09d64dc92819
+SHA256: 962d4cb5c5248dba3e7d707e7a133b5e83d1a442e17181f38d06141912a57adf
+Section: Tweaks
+Description: 密码界面的密码弹跳动画，非常丝滑酷炫！
+Author: sourcelocation
+Name: PinAnim密码弹跳动画
 
 Package: twitter.nowesr1.photosplus.lans233
 Version: 0.0.1
